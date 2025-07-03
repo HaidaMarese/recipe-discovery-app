@@ -17,10 +17,10 @@ A modern React single-page application to browse and search recipes using [TheMe
 - Scroll to top button
 
 ##  Tech Stack
-- React
-- React Router
-- Tailwind CSS
-- TheMealDB API
+- [React](https://react.dev/)
+- [React Router](https://reactrouter.com/)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
+- [TheMealDB API](https://www.themealdb.com/)
 - Context API
 - Vite
 - Framer Motion
@@ -28,7 +28,7 @@ A modern React single-page application to browse and search recipes using [TheMe
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/recipe-discovery-app.git
+git clone https://github.com/HaidaMarese/recipe-discovery-app.git
 cd recipe-discovery-app
 npm install
 npm run dev
