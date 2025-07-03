@@ -25,6 +25,10 @@ A modern React single-page application to browse and search recipes using [TheMe
 - Vite
 - Framer Motion
 
+  ## Live Demo
+
+[Live Site](https://haida-recipe-app.netlify.app/)
+
 ## Getting Started
 
 ```bash
